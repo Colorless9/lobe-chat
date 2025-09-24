@@ -4,3 +4,4 @@
 // register({ version });
 
 // Jaeger 追踪已关闭
+export {}; 
